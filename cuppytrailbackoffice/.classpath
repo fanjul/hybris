@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="src" path="/backoffice"/>
+	<classpathentry exported="true" kind="src" path="/platform"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="resources"/>
+	<classpathentry kind="src" output="eclipsebin/classes" path="src"/>
+	<classpathentry kind="src" output="eclipsebin/backoffice/classes" path="backoffice/src"/>
+	<classpathentry kind="src" output="eclipsebin/classes" path="testsrc"/>
+	<classpathentry kind="src" output="eclipsebin/classes" path="gensrc"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zk-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zkbind-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zel-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zcommon-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zhtml-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zkplus-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zul-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/zweb-7.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/cockpitcore-2.3.0.6-RC1.jar"/>
+	<classpathentry kind="lib" path="C:/trail-lucho-5.7/hybris-5.7/hybris/bin/ext-backoffice/backoffice/web/webroot/WEB-INF/lib/cockpitframework-2.3.0.6-RC1.jar"/>
+	<classpathentry kind="output" path="eclipsebin/notused"/>
+</classpath>
